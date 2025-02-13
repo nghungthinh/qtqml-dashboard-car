@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="background">../../assets/background/background.png</file>
+        <file alias="theme_dark">../../assets/themes/theme_dark.png</file>
+        <file alias="theme_light">../../assets/themes/theme_light.png</file>
+    </qresource>
+</RCC>

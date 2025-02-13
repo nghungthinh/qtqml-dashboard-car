@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/components/common">
+        <!-- Sử dụng đường dẫn tương đối từ vị trí của common.qrc -->
+        <file>../../qml/components/common/ImageTextButton.qml</file>
+        <file>../../qml/components/common/TextButton.qml</file>
+    </qresource>
+</RCC>
